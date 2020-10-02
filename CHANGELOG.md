@@ -1,15 +1,7 @@
 # CHANGELOG
 
-## [VERSION] ISO DATE
+## [1.0.0] 2020-10-02
 
 ### ADDED
 
-### REMOVED
-
-### CHANGED
-
-### FIXED
-
-### DEPRECATED
-
-### SECURITY
+- Added a "Darkness Color" slider to the scene configuration that changes the color of the darkness overlay.
